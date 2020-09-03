@@ -9,3 +9,4 @@ hadoop学习记录
 4. 数据去重
 5. TopN
 
+6. 《并行》最后作业-朋友friends
